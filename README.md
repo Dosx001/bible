@@ -18,3 +18,5 @@
 - A 9 to 5 programmer will have a constant performance, use your team wisely
 - Do not build individuals, help them grow
 - Programming at home is a Software Engineering problem, programming at work is a Social Engineering problem
+
+Equality sucks for people who are unfairly ahead
